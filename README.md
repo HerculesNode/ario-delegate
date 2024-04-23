@@ -84,7 +84,13 @@ chmod +x ario.sh
 ./ario.sh
 ```
 
-- Aşağıdaki giib çıktı alıyorsanız işlem tamamdır. 
+- Aşağıdaki gibi çıktı alıyorsanız işlem tamamdır. 
 
 ![image](https://github.com/HerculesNode/ario-delegate/assets/101635385/5ae19608-6e97-4979-8041-d4158b01d4f1)
+
+
+## delegate-stake.ts dosyasını eski haline getirir. 
+```shell
+mv tools/delegate-stake.ts.bak tools/delegate-stake.ts
+```
 
