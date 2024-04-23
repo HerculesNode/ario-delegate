@@ -17,12 +17,12 @@
 screen -r aroto
 ```
 
-## kodun çalışacağı dosyayı oluşturalım
+## 1 - kodun çalışacağı dosyayı açalım 
 ```shell
 nano ario.sh
 ```
 
-## Aşağıdaki kodu açtığımız ario nano dosyasının içine yapıştırın CTRL + X + Y tuşlarıyla kaydedin
+## 2 - Aşağıdaki kodu açtığımız ario nano dosyasının içine yapıştırın CTRL + X + Y tuşlarıyla kaydedin
 ```shell
 #!/bin/bash
 cd /root/testnet-contract/
@@ -78,12 +78,12 @@ for TARGET in "${TARGETS[@]}"; do
 done
 ```
 
-## izin verelim
+## 3 - izin verelim
 ```shell
 chmod +x ario.sh
 ```
 
-## Scripti çalıştıralım
+## 4- Scripti çalıştıralım
 ```shell
 ./ario.sh
 ```
