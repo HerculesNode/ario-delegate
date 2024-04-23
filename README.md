@@ -14,11 +14,13 @@
 
 ## Screen açalım orada takılsın kod
 ```shell
-screen -r aroto
+screen -S aroto
 ```
 
-## 1 - kodun çalışacağı dosyayı açalım 
+## 1 - kodun çalışacağı dosyayı açalım . Ar io klasörünün içine açalık ki karışmasın.
 ```shell
+cd
+cd /root/ar-io-node/
 nano ario.sh
 ```
 
@@ -95,6 +97,8 @@ chmod +x ario.sh
 ```shell
 ./ario.sh
 ```
+
+## 5- Ctrl A D ile Screen den çıkalım. Screen açık kalsın. Kod 48 saate bir kendini tekrar edecek. Diğer kurulumlardan dolayı kill olursa tekrar "./ario.sh" kodu ile çalıştırın.
 
 - Aşağıdaki gibi çıktı alıyorsanız işlem tamamdır. 
 
