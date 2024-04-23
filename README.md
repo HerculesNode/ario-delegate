@@ -9,10 +9,13 @@
 
 - ilk olarak tools/delegate-stake.ts dosyasını açın ve 200 olarak ayarlayın dosyayı kaydedin ve ardından aşağıdaki kodları çalıştırın. 
 - Kod listede kaç adres var ise hepsine tek tek stake işlemi yapar 
-- 2-3 günde bir yapın
 
 ![image](https://github.com/HerculesNode/ario-delegate/assets/101635385/679ba253-8be7-4ae7-924d-3c8b397f4dcd)
 
+## Screen açalım orada takılsın kod
+```shell
+screen -r aroto
+```
 
 ## ilk olarak Nano açalım
 ```shell
