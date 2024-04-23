@@ -17,7 +17,7 @@
 screen -r aroto
 ```
 
-## ilk olarak Nano açalım
+## kodun çalışacağı dosyayı oluşturalım
 ```shell
 nano ario.sh
 ```
