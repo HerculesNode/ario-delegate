@@ -17,7 +17,7 @@
 screen -S aroto
 ```
 
-## 1 - kodun çalışacağı dosyayı açalım . Ar io klasörünün içine açalık ki karışmasın.
+## 1 - kodun çalışacağı dosyayı açalım . Ar io klasörünün içine açalım ki karışmasın.
 ```shell
 cd
 cd /root/ar-io-node/
