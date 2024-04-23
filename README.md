@@ -1,4 +1,5 @@
-# ario Oto delegate işlemi. Script listede belirtilen adreslere 2dk arayla stake yapar.
+# AR Node Oto delegate işlemi. 
+# Script listede belirtilen adreslere 2dk arayla stake yapar.
 
 
 ## Linkler
