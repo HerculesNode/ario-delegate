@@ -75,7 +75,7 @@ while true; do
   		yarn ts-node tools/delegate-stake.ts
 
   		# Kısa bir bekleme süresi (isteğe bağlı)
-  		sleep 2
+  		sleep 20
 	done
   for ((i=172800; i>0; i--)); do
         echo -ne "Kalan süre: $i saniye\033[0K\r"
