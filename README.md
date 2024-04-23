@@ -63,6 +63,7 @@ while true; do
 	"arn_Hkv7mwX1HALJktsiaYg_bXc5aBeddicvVf6pla4"
 	"BIa3UE0QEPRJC4HBSU252qHtA8ZOR4ClnzBq1LZQ_WU"
 	"lC5I5rQvGZn36DodBvWiMD_abkprE20p6GgGiZakk9Y"
+	"C5AiYcMmrOFHrnQwhJg1Xtzhz23T0zNB0ACge1otHs"
 	)
 
 	# delegate-stake.ts dosyasının yedek kopyasını alın
