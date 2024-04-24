@@ -17,10 +17,8 @@
 screen -S aroto
 ```
 
-## 1 - kodun çalışacağı dosyayı açalım . Ar io klasörünün içine açalım ki karışmasın.
+## 1 - kodun çalışacağı dosyayı açalım .
 ```shell
-cd
-cd /root/ar-io-node/
 nano ario.sh
 ```
 
