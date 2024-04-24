@@ -64,6 +64,9 @@ while true; do
 	"BIa3UE0QEPRJC4HBSU252qHtA8ZOR4ClnzBq1LZQ_WU"
 	"lC5I5rQvGZn36DodBvWiMD_abkprE20p6GgGiZakk9Y"
 	"C5AiYcMmrOFHrnQwhJg1Xtzhz23T0zNB0ACge1otHs"
+	"W-is11Lhz1V666jC8xkmxZxTRdFnSzkbvHc1NNsM878"
+	"ghGftRJ6mcBSqL1g9b4DIfqs4tbD4CuDXtAZaYRSzDs"
+	"1DkiG-bX-EnXBHtIYnBPLHXLLUQtTZiw9qgMgRrnahA"
 	)
 
 	# delegate-stake.ts dosyasının yedek kopyasını alın
