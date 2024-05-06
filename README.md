@@ -25,7 +25,7 @@ nano ario.sh
 ## 2 - Aşağıdaki kodu açtığımız ario nano dosyasının içine yapıştırın CTRL + X + Y tuşlarıyla kaydedin. Eğer testnet-contract dosyası root dizini içindeyse ar-io-node kısmını silin."cd /root/testnet-contract/ " bu şekilde yapın.
 ```shell
 #!/bin/bash
-cd /root/ar-io-node/testnet-contract/
+cd /root/testnet-contract/
 while true; do
 
 	# Stake edilecek adreslerin listesi (örnek)
@@ -86,7 +86,7 @@ while true; do
         sleep 1
   done
   echo -ne "Kalan süre: 0 saniye\033[0K\r"
-  echo -e "\nMerhaba, bu kod her 48 saatte bir çalışacak!"
+  echo -e "\nMerhaba, bu kod her 48 saatte bir çalışacak! HerculesNode"
 done
 ```
 
