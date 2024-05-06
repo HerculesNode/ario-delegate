@@ -22,7 +22,7 @@ screen -S aroto
 nano ario.sh
 ```
 
-## 2 - Aşağıdaki kodu açtığımız ario nano dosyasının içine yapıştırın CTRL + X + Y tuşlarıyla kaydedin. Eğer testnet-contract dosyası root dizini içindeyse ar-io-node kısmını silin."cd /root/testnet-contract/ " bu şekilde yapın.
+## 2 - Aşağıdaki kodu açtığımız ario nano dosyasının içine yapıştırın CTRL + X + Y tuşlarıyla kaydedin. Eğer testnet-contract dosyası ar-io-node dizini içindeyse . "cd /root/ar-io-node/testnet-contract/ " bu şekilde yapın.
 ```shell
 #!/bin/bash
 cd /root/testnet-contract/
